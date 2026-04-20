@@ -1,7 +1,7 @@
 package magic
 
 /*
- #cgo CFLAGS: -DHAVE_CONFIG_H
+ #cgo CFLAGS: -DHAVE_CONFIG_H -std=gnu17
  #include <magic.h>
  #include <stdlib.h>
 */
